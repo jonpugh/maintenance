@@ -1,0 +1,19 @@
+{
+    "name": "jonpugh/maintenance",
+    "description": "Tools for Drupal and Composer maintenance.",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jonpugh\\DrupalMaintenance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jon Pugh",
+            "email": "jon@thinkdrop.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
